@@ -1,0 +1,51 @@
+{
+    "basics": {
+      "name": "Saran Ramalingam",
+      "email": "saranramalingam98@gmail.com",
+      "phone": "8489984890",
+      "degree": "MBA",
+      "summary": "I am a fresher",
+      "location": {
+        "address": "c block",
+        "city": "Trichy",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "network": " facebook",
+          "username": "Saran Ram"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "SRM University",
+        "area": "MBA",
+        "studyType": "Fulltime",
+        "startDate": "16-8-2017",
+        "endDate": "12-5-2021",
+        "gpa": "7.74"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": ["('Java','Python','SQL')"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Professional"
+      },
+      { "language": "Tamil", "fluency": "professional" }
+    ],
+    "interests": [
+      {
+        "name": "video games",
+        "keywords": ["(ps3', 'ps4', 'xbox')"]
+      }
+    ]
+  }
+  
